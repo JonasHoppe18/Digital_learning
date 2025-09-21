@@ -6,7 +6,6 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import React from 'react';
 import HomeScreen from './screens/HomeScreen';
 import ProfileScreen from './screens/ProfileScreen';
-import CourseScreen from './screens/CourseScreen';
 import { Ionicons } from '@expo/vector-icons';
 import CoursesStack from './navigation/CoursesStack';
 
